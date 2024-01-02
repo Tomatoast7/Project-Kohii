@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald:wght@400;600&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald:wght@400;600&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Montserrat:wght@100&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Exo+2:wght@300&family=Kalnia:wght@300&family=Kaushan+Script&family=Lato:wght@700&family=Montserrat:wght@100&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald:wght@400;600&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald:wght@400;600&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Montserrat:wght@100&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Exo+2:wght@300&family=Kalnia:wght@300&family=Kaushan+Script&family=Lato:wght@700&family=Montserrat:wght@100&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+body{
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+h1{
+    color: white;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-family: 'Playfair Display';
+    background-color: black;
+    text-align: center;
+   
+}
+
+
+.header{
+    color: white;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 20px;
+    letter-spacing: 5px;
+    margin-top: -60px;
+    text-align: right;
+    padding-right: 30px;
+}
+
+img{
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.head{
+background-color: #f8c291;
+margin-bottom: -10px;
+padding-top: 0px;
+padding-bottom: 15px;
+font-size: 25px;
+color: black;
+font-family: 'Montserrat';
+}
+.contact{
+    text-align: center;
+    font-size: 40px;
+    color: khaki;
+    text-shadow: 1px 1px 1px black;
+}
+p{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    
+    line-height: 50px;
+}
+.inquire{
+    text-align: center;
+    font-size: 40px;
+    color: khaki;
+    text-shadow: 1px 1px 1px black;
+}
+button{
+    margin-left: 500px;
+    background: khaki;
+    border-radius: 30px;
+    border: none;
+}
+#contact_us{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px black;
+    line-height: 50px;
+}

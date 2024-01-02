@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald:wght@400;600&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald:wght@400;600&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Montserrat:wght@100&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Exo+2:wght@300&family=Kalnia:wght@300&family=Kaushan+Script&family=Lato:wght@700&family=Montserrat:wght@100&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+body{
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+h1{
+    color: white;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-family: 'Playfair Display';
+    background-color: black;
+    text-align: center;
+   
+}
+
+
+.header{
+    color: white;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 20px;
+    letter-spacing: 5px;
+    margin-top: -60px;
+    text-align: right;
+    padding-right: 30px;
+}
+.start{
+    white-space: pre;
+    font-size: 80px;
+    font-family: 'Oswald';
+    text-shadow: 10px 3px 6px black;
+    font-family: 'Playfair Display';
+}
+#quote{
+    font-size: 25px;
+    padding-left: 100px;
+    margin-top: -50px;
+    font-family: 'Playfair Display';
+    text-shadow: 5px 5px 4px black;    
+}
+img{
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.head{
+background-color: #f8c291;
+margin-bottom: -10px;
+padding-top: 0px;
+padding-bottom: 15px;
+font-size: 25px;
+color: black;
+font-family: 'Montserrat';
+}
+.mocha{
+    margin-left: 30px;
+}
+.vanilla{
+    float: right;
+    margin-top: -615px;
+    margin-right: 550px;
+}
+.americano{
+    float: right;
+    margin-top: -615px;
+    margin-right: 30px;
+}
+.b1{
+    margin-left: 140px;
+    font-size: 20px;
+    border-radius: 20px;
+    height: 60px;
+    width: 150px;
+    background: #f8c291;
+    border: none;
+    
+}
+.b1:hover{
+    background-color: #82ccdd;
+    transition: 0.8s;
+    
+}
+.b2{
+    margin-top: -90px;
+    margin-right: 640px;
+    border-radius: 20px;
+    border: none;
+    height: 60px;
+    width: 150px;
+    font-size: 20px;
+    float: right;
+    background: khaki;
+}
+.b2:hover{
+    background-color: #FDA7DF;
+    transition: 0.8s;
+}
+.b3{
+    border-radius: 20px;
+    height: 60px;
+    width: 150px;
+    background: #f8c291;
+    border: none;
+    font-size: 20px;
+    float: right;
+    margin-top: -90px;
+    margin-right: 150px;
+}
+.b3:hover{
+    background-color: #ED4C67;
+    transition: 0.8s;
+}
+div{
+    margin-top: 100px;
+}
+.price{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    margin-top: -20px;
+    margin-left: 600px;
+    border-radius: 20px;
+    width: 200px;
+    border: none;
+    background-color: #f8c291;
+}
+#prices{
+    padding-left: 50px;
+    font-size: 40px;
+    color: #ffeaa7;
+    text-shadow: 2px 2px 1px black;
+}
+.price1{
+    padding-left: 20px;
+    font-size: 40px;
+    color: white;
+    text-shadow: 2px 2px 1px black;
+}
+
+.page{
+    margin-top: -20px;
+}
+.container1{
+    text-align: center;
+    margin-top: -135px;
+    padding-right: 300px;
+}
+.container2{
+    text-align: right;
+    padding-right: 200px;
+    margin-top: -135px;
+}
+.quotess{
+    color: white;
+    font-size: 24px;
+    font-family: 'Kaushan Script';
+    margin-top: -30px;
+    padding-left: 50px;
+    text-shadow: 5px 5px 20px black;
+}
+#vanilla_quote{
+    text-align: center;
+    margin-top: -90px;
+}
+#americano_quote{
+    text-align: right;
+    margin-top: -90px;
+}

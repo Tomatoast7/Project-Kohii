@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald:wght@400;600&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald:wght@400;600&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Exo+2:wght@300&family=Kalnia:wght@300&family=Lato:wght@700&family=Montserrat:wght@100&family=Oswald&family=Playfair+Display&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+body{
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: white;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-family: 'Playfair Display';
+    background-color: black;
+    text-align: center;
+   
+}
+p{
+    font-size: 20px;
+    color: white;
+    margin-top: -30px;
+}
+
+.photo{
+    float: right;
+    margin-right: 200px;
+    border-radius: 50px;
+}
+ol{
+    padding-left: 300px;
+}
+.header{
+    color: white;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 20px;
+    letter-spacing: 5px;
+    margin-top: -60px;
+    text-align: right;
+    padding-right: 30px;
+}
+.start{
+    white-space: pre;
+    font-size: 80px;
+    font-family: 'Oswald';
+    text-shadow: 10px 3px 6px black;
+    font-family: 'Playfair Display';
+}
+#quote{
+    font-size: 25px;
+    padding-left: 100px;
+    margin-top: -50px;
+    font-family: 'Playfair Display';
+    text-shadow: 5px 5px 1px black;    
+}
+img{
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.head{
+background-color: #f8c291;
+margin-bottom: -10px;
+padding-top: 0px;
+padding-bottom: 15px;
+font-size: 25px;
+color: black;
+font-family: 'Montserrat';
+}
+.nav{
+    font-size: 30px;
+    padding-left: 250px;
+    
+}
+.shop,.about,a{
+    height: 30px;
+    width: 70px;
+    font-size: 20px;
+    border-radius: 30px;
+    font-family: 'Oswald';
+    outline: none;
+    border: none;
+    color: #e55039;
+    text-decoration: none;
+}
+.contacts{
+    height: 30px;
+    width: 80px;
+    font-size: 20px;
+    border-radius: 30px;
+    font-family: 'Oswald';
+    border: none;
+    color: #e55039;
+}
+.shop:hover{
+    color: black;
+    background-color: khaki;
+    
+}
+.about:hover{
+    color: black;
+    background-color: khaki;
+}
+.contacts:hover{
+    color: black;
+    background-color: khaki;
+}
+
+.sign_up{
+    font-size: 30px;
+    border-style: solid;
+    background-color: white;
+    width: 150px;
+    padding-left: 10px;
+    color: #e55039;
+    float: right;
+    margin-right: 300px;
+    margin-top: -260px;
+    border: none;
+    border-radius: 20px;
+
+}
+.sign{
+    margin-left: 940px;
+    margin-top: -220px;   
+}
+.submit{
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 100px;
+    border: none;
+    background-color: #e55039;
+    color: white;
+    height: 50px;
+    text-shadow: 1px 1px 1px black;
+    transition: 2s;
+}
+.submit:hover{
+    background-color: aquamarine;
+    color:  gray;
+    width: 150px;
+}
+
+
+
+
+
